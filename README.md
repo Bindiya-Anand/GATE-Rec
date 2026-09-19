@@ -6,7 +6,7 @@ GATE-Rec is a hybrid deep recommendation framework developed as part of my MSc C
 
 ## System Architecture
 
-#![GATE-Rec System Architecture](GATE-Rec_System_Architecture.png)
+![GATE-Rec System Architecture](GATE-Rec_System_Architecture.png)
 
 ## Problem
 
