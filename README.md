@@ -1,5 +1,4 @@
-# GATE-Rec 
-(Gated Adaptive Text-Enhanced Recommender)
+# Gated Adaptive Text-Enhanced Recommender (GATE-Rec)
 ### Deep Recommender Framework for Cold-Start Mitigation and Cross-/Up-Selling
 
 GATE-Rec is a hybrid deep recommendation framework developed as part of my MSc Computer Science dissertation. It combines behavioural information from user interaction sequences with product text information to address the **item cold-start problem** while supporting **cross-selling and up-selling** applications.
