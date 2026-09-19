@@ -13,8 +13,8 @@ Traditional recommendation systems depend heavily on historical user-item intera
 
 At the same time, recommendation systems can support business applications such as:
 
-- **Cross-selling** – recommending complementary or related products
-- **Up-selling** – recommending higher-rated alternatives within the same category
+- **Cross-selling** - recommending complementary or related products
+- **Up-selling** - recommending higher-rated alternatives within the same category
 
 GATE-Rec addresses these requirements through a unified hybrid embedding framework.
 
@@ -28,12 +28,12 @@ GATE-Rec addresses these requirements through a unified hybrid embedding framewo
 
 The framework follows a two-phase pipeline:
 
-**Phase 1 – Behavioural Embedding Learning**
+**Phase 1 - Behavioural Embedding Learning**
 - User interaction sequences are processed chronologically.
 - **GRU4Rec** learns sequential item representations from interaction history.
 - Behavioural item embeddings are extracted from the trained model.
 
-**Phase 2 – Hybrid Embedding Construction**
+**Phase 2 - Hybrid Embedding Construction**
 - Product metadata is converted into text representations using **SentenceTransformer (all-MiniLM-L6-v2)**.
 - Behavioural and textual representations are projected into a common space.
 - A learned **gating mechanism** dynamically balances behavioural and textual information.
@@ -57,7 +57,7 @@ The framework was evaluated using:
 - **Hit@10**
 - **NDCG@10**
 - **Cold Efficiency**
-- **Warm–Cold Gap**
+- **Warm-Cold Gap**
 - **Harmonic Mean**
 - **PCA and t-SNE embedding visualizations**
 
@@ -105,3 +105,13 @@ GATE-Rec/
 │       └── cold_start_evaluation/
 │
 └── README.md
+```
+
+## Academic Context
+**MSc Computer Science – Artificial Intelligence & Machine Learning**
+
+South Asian University, New Delhi
+
+Master's Dissertation, 2026
+
+**Supervisor:** Prof. Muhammad Abulaish
