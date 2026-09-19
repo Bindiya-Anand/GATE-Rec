@@ -59,7 +59,7 @@ The framework was evaluated using:
 - **Cold Efficiency**
 - **Warm–Cold Gap**
 - **Harmonic Mean**
-- PCA and t-SNE embedding visualisations
+- **PCA and t-SNE embedding visualizations**
 
 Multiple baselines were also evaluated, including Random, Most Popular, BPR-MF, GRU4Rec, Text-Only retrieval, and SASRec.
 
