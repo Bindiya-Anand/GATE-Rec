@@ -108,10 +108,12 @@ GATE-Rec/
 ```
 
 ## Academic Context
-**MSc Computer Science – Artificial Intelligence & Machine Learning**
+**Master's Dissertation**
+
+**MSc Computer Science - Artificial Intelligence & Machine Learning**
 
 South Asian University, New Delhi
 
-Master's Dissertation, 2026
+2026
 
 **Supervisor:** Prof. Muhammad Abulaish
